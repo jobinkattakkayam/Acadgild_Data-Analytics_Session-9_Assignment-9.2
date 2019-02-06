@@ -1,6 +1,6 @@
 library(readr)
 library(psych)
-mtcars <- read_csv("E:/munmun_acadgild/acadgild data analytics/supporting files/mtcars.csv")
+mtcars <- read_csv("F:/ACADGILD - Online Course/1. DATA SETS/mtcars.csv")
 View(mtcars)
 mtcars
 str(mtcars)
